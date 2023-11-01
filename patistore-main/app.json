@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "patistore",
+    "slug": "patistore",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "patistore"
+}
